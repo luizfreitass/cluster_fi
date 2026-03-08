@@ -1,0 +1,4 @@
+algoritmo,n_clusters,silhouette,davies_bouldin,calinski_harabasz,n_ruido
+K-Means,4,0.7303,0.8229,12272.15,0
+Hierárquico (Ward),4,0.6609,1.3718,10748.5,0
+HDBSCAN,2,0.8303,0.3184,42025.69,5317
